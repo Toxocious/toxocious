@@ -1,16 +1,87 @@
-### Hi there 👋
+<!-- Profile -->
+<p align='left'>
+  <strong>
+    <samp>「</samp>
+  </strong>
+</p>
 
-<!--
-**Toxocious/toxocious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+  <samp>
+    <br />
+    <image
+      src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=4a618f&center=true&width=410&height=45&lines=Hello There"
+    />
+    <b>
+      I'm Jess, a Software Engineer and Linux enthusiast.
+      <br />
+    </b>
+    <br />
+  </samp>
+  <br />
+</p>
 
-Here are some ideas to get you started:
+<p align='right'>
+  <strong>
+    <samp>
+      」
+    </samp>
+  </strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+<!-- Contact Me -->
+<p align='center'>
+  <summary align='center'>
+    <h3>Contact Me</h3>
+  </summary>
+
+  <p align='center'>
+    <samp>
+      <a
+        href="https://discord.com/users/110174307589570560" target="_blank"
+      >
+        <img
+          alt="Discord"
+          src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"
+        />
+      </a>
+      <a
+        href="mailto:toxocious@gmail.com"
+        target="_blank"
+      >
+        <img
+          alt="Gmail"
+          src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+      </a>
+    </samp>
+  </p>
+</p>
+<br />
+
+<!-- Repository Stats -->
+<details align='center'>
+  <summary>
+    <samp>
+      <b>Repository Statistics</b>
+    </samp>
+  </summary>
+  <br />
+
+  <p align='center'>
+    <samp>
+      <br/>
+      <img
+        alt="GitHub Stats"
+        src="https://github-readme-stats.vercel.app/api?username=toxocious&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=material-palenight"
+      />
+      <img
+        alt="Top Languages"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=toxocious&layout=compact&hide_border=true&theme=material-palenight"
+      />
+      <br/>
+    </samp>
+  </p>
+</details>
+<br />
