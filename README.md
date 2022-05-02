@@ -10,7 +10,6 @@
     <br />
     <b>
       I'm Jess, a Software Engineer and Linux enthusiast.
-      <br />
     </b>
     <br />
   </samp>
