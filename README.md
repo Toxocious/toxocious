@@ -8,9 +8,6 @@
 <p align='center'>
   <samp>
     <br />
-    <image
-      src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=4a618f&center=true&width=410&height=45&lines=Hello There"
-    />
     <b>
       I'm Jess, a Software Engineer and Linux enthusiast.
       <br />
