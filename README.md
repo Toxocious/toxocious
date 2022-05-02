@@ -9,7 +9,10 @@
   <samp>
     <br />
     <b>
-      I'm Jess, a Software Engineer and Linux enthusiast.
+      I'm Jess
+      <br />
+      <br />
+      Software Engineer and Linux enthusiast
     </b>
     <br />
   </samp>
