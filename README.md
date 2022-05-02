@@ -13,7 +13,6 @@
     </b>
     <br />
   </samp>
-  <br />
 </p>
 
 <p align='right'>
@@ -23,14 +22,11 @@
     </samp>
   </strong>
 </p>
-
 <br />
 
 <!-- Contact Me -->
 <p align='center'>
-  <summary align='center'>
-    <h3>Contact Me</h3>
-  </summary>
+  <h3 align='center'>Contact Me</h3>
 
   <p align='center'>
     <samp>
