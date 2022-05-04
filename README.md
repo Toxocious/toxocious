@@ -54,29 +54,3 @@
   </p>
 </p>
 <br />
-
-<!-- Repository Stats -->
-<details align='center'>
-  <summary>
-    <samp>
-      <b>Repository Statistics</b>
-    </samp>
-  </summary>
-  <br />
-
-  <p align='center'>
-    <samp>
-      <br/>
-      <img
-        alt="GitHub Stats"
-        src="https://github-readme-stats.vercel.app/api?username=toxocious&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=material-palenight"
-      />
-      <img
-        alt="Top Languages"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=toxocious&layout=compact&hide_border=true&theme=material-palenight"
-      />
-      <br/>
-    </samp>
-  </p>
-</details>
-<br />
