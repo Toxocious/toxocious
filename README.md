@@ -12,7 +12,10 @@
       I'm Jess
       <br />
       <br />
-      Software Engineer and Linux enthusiast
+      Software Engineer & Linux Enthusiast
+      <br /><br />
+      Building performant projects and crafting some amazing software
+      <br />
     </b>
     <br />
   </samp>
