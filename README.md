@@ -30,6 +30,17 @@
 </p>
 <br />
 
+<!-- Blog/Portfolio -->
+<p align='center'>
+  <h3 align='center'>Blog & Portfolio</h3>
+  <p align='center'>I talk about things that pique my interest, have challenged me, and my experiences with various tech!</p>
+  
+  <div align='center'>
+    <a href='https://toxocious.is-a.dev/'>Check It Out!</a>
+  </div>
+</p>
+<br />
+
 <!-- Contact Me -->
 <p align='center'>
   <h3 align='center'>Contact Me</h3>
