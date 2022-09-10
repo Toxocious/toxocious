@@ -10,12 +10,12 @@
     <br />
     <b>
       I'm Jess
-      <br />
-      <br />
-      Software Engineer & Linux Enthusiast
       <br /><br />
-      Building performant projects and crafting some amazing software
-      <br />
+      A Software Engineer & Linux Enthusiast
+      <br /><br />
+      Developing epic projects and learning new things
+      <br /><br />
+      <a href='https://toxocious.is-a.dev/'>Check Out My Blog</a>
     </b>
     <br />
   </samp>
@@ -27,17 +27,6 @@
       」
     </samp>
   </strong>
-</p>
-<br />
-
-<!-- Blog/Portfolio -->
-<p align='center'>
-  <h3 align='center'>Blog & Portfolio</h3>
-  <p align='center'>I talk about things that pique my interest, have challenged me, and my experiences with various tech!</p>
-  
-  <div align='center'>
-    <a href='https://toxocious.is-a.dev/'>Check It Out!</a>
-  </div>
 </p>
 <br />
 
