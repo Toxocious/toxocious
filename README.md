@@ -13,8 +13,6 @@
       <br /><br />
       A Software Engineer & Linux Enthusiast
       <br /><br />
-      Developing epic projects and learning new things
-      <br /><br />
       <a href='https://toxocious.is-a.dev/'>Check Out My Blog</a>
     </b>
     <br />
