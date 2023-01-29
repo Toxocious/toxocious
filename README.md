@@ -7,13 +7,12 @@
 
 <p align='center'>
   <samp>
-    <br />
     <b>
       I'm Jess
       <br /><br />
       A Software Engineer & Linux Enthusiast
       <br /><br />
-      <a href='https://toxocious.is-a.dev/'>Check Out My Blog</a>
+      <a href='https://toxocious.is-a.dev/'>Check Out My Blog &amp; Portfolio</a>
     </b>
     <br />
   </samp>
@@ -26,7 +25,6 @@
     </samp>
   </strong>
 </p>
-<br />
 
 <!-- Contact Me -->
 <p align='center'>
@@ -54,4 +52,3 @@
     </samp>
   </p>
 </p>
-<br />
