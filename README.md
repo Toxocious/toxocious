@@ -36,8 +36,8 @@
         href="https://discord.com/users/110174307589570560" target="_blank"
       >
         <img
-          alt="Discord"
           src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"
+          alt="Discord Link"
         />
       </a>
       <a
@@ -45,8 +45,26 @@
         target="_blank"
       >
         <img
-          alt="Gmail"
           src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+          alt="Gmail Link"
+        />
+      </a>
+      <a
+        href="https://www.linkedin.com/in/mackjesse/"
+        target="_blank"
+      >
+        <img
+          src="https://img.shields.io/badge/-@mackjesse-0077B5?style=for-the-badge&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/mackjesse/"
+          alt="LinkedIn Link"
+        />
+      </a>
+      <a
+        href="https://twitter.com/toxocious"
+        target="_blank"
+      >
+        <img 
+          src="https://img.shields.io/badge/-@Toxocious-34b9ea?style=for-the-badge&labelColor=34b9ea&logo=Twitter&logoColor=white&link=https://twitter.com/toxocious" 
+          alt="Twitter Link"
         />
       </a>
     </samp>
