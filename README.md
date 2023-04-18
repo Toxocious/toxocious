@@ -12,7 +12,7 @@
       <br /><br />
       A Software Engineer & Linux Enthusiast
       <br /><br />
-      <a href='https://toxocious.is-a.dev/'>Check Out My Blog &amp; Portfolio</a>
+      <a href='https://toxocious.is-a.dev/'>Check Out My Portfolio</a>
     </b>
     <br />
   </samp>
