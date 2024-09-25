@@ -9,8 +9,10 @@
   <samp>
     <b>
       I'm Jess
+      <br />
+      A Software Engineer
       <br /><br />
-      A Software Engineer & Linux Enthusiast
+      Building a custom <a href='https://github.com/Toxocious/Ephemeral' target="_blank">Pokemon-style map engine</a>
       <br /><br />
       <a href='https://toxocious.is-a.dev/'>Check Out My Portfolio</a>
     </b>
