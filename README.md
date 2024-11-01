@@ -13,8 +13,8 @@
       A Software Engineer
       <br /><br />
       Building a custom <a href='https://github.com/Toxocious/Ephemeral' target="_blank">Pokemon-style map engine</a>
-      <br /><br />
-      <a href='https://toxocious.is-a.dev/'>Check Out My Portfolio</a>
+      <br />
+      Also developing a <a href='https://github.com/Toxocious/Absolute' target="_blank">web-based Pokemon RPG</a>
     </b>
     <br />
   </samp>
@@ -49,15 +49,6 @@
         <img
           src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
           alt="Gmail Link"
-        />
-      </a>
-      <a
-        href="https://www.linkedin.com/in/mackjesse/"
-        target="_blank"
-      >
-        <img
-          src="https://img.shields.io/badge/-@mackjesse-0077B5?style=for-the-badge&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/mackjesse/"
-          alt="LinkedIn Link"
         />
       </a>
       <a
