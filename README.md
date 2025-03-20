@@ -7,6 +7,13 @@
 
 <p align='center'>
   <samp>
+    <b>I'm Jess</b>
+  </samp>
+</p>
+
+<!--
+<p align='center'>
+  <samp>
     <b>
       I'm Jess
       <br />
@@ -19,6 +26,7 @@
     <br />
   </samp>
 </p>
+-->
 
 <p align='right'>
   <strong>
@@ -29,6 +37,7 @@
 </p>
 
 <!-- Contact Me -->
+<!--
 <p align='center'>
   <h3 align='center'>Contact Me</h3>
 
@@ -63,3 +72,4 @@
     </samp>
   </p>
 </p>
+-->
