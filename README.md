@@ -15,7 +15,7 @@
       <br /><br />
       Primary developer for <a href='https://github.com/PokemonAbsolute' target="_blank">Pokémon Absolute</a>
       <br />
-      Building a custom <a href='https://github.com/Toxocious/Shinkiro' target="_blank">Pokemon-style map and runtime</a>
+      Building a <a href='https://github.com/Toxocious/Shinkiro' target="_blank">Pokemon-style map editor and runtime</a>
     </b>
     <br />
   </samp>
